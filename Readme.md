@@ -1,7 +1,7 @@
 #Service Template
 
 This template is inspired in the work of great devs.
-I took bits and peaces from variuos posts, right now
+I took bits and peaces from various posts, right now
 I don't remember the urls, I will search it and put it
 here as soon as I can.
 
